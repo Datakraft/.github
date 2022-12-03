@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction: row;">
   <div style="min-width: 300px;">
     <img
-      src="https://scontent.flim13-1.fna.fbcdn.net/v/t39.30808-6/289566930_5293344520711060_5462325532411884216_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH4XjRj5w58Rs1C8HHzqJ_l1l0ZTvOq2cnWXRlO86rZycyPNUXY7zuyTilPxuRwjIYIWjapSuy2ESj_qZ2ANFdM&_nc_ohc=h3HfzovjDu0AX9HznrA&_nc_ht=scontent.flim13-1.fna&oh=00_AfCw-0CLIRcbM2QZX-KJGjYEalgF2q0jpRhviJj9eGjZsw&oe=637ACE66"
+      src="https://user-images.githubusercontent.com/71949403/205411166-c50abbc0-75d9-4ea4-8711-ac1be913e702.png"
       width="300" height="300" style="border-radius: 50%;"
       alt="logo Datakraft">
   </div>
